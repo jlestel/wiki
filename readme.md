@@ -1,4 +1,4 @@
-# Tuto Obsidian — LLM Wiki Agent
+# LLM Second Brain Agent
 
 Mise en place d'un "second cerveau" piloté par un agent LLM, basé sur l'idée d'Andrej Karpathy.
 
@@ -6,13 +6,7 @@ Mise en place d'un "second cerveau" piloté par un agent LLM, basé sur l'idée 
 
 Prompt original de Karpathy : https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
 
-## Prompt de démarrage
-
-À coller dans Claude Code pour initialiser le wiki :
-
-> You are now my LLM Wiki agent. Implement this exact idea file as my complete second brain. Guide me step-by-step: create the CLAUDE.md schema file with full rules, set up index.md and log.md, define folder conventions, and show me the first ingest example.
->
-> From now on, every interaction follows the schema.
+Cf CLAUDE.md pour les règles détaillées du wiki.
 
 ## Slash commands
 
