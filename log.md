@@ -84,3 +84,8 @@ Questions ouvertes :
 ## [2026-04-16] save | Bilan batch ingest avril 2026
 Page créée: [[bilan-batch-ingest-avril-2026]]
 Synthèse du batch de 12 sources : 4 clusters thématiques (souveraineté/open source, unit economics IA, critique épistémique LLM, infra minimaliste), tensions productives identifiées, 4 questions ouvertes pour la suite.
+
+## [2026-04-16] query+save | Réponse post SFEIR / S3NS
+Post de Nicolas Misiak (Directeur Sud-Ouest SFEIR) sur S3NS (Thales x Google Cloud), SecNumCloud 3.2, Bordeaux/Toulouse.
+Page créée: [[reponse-post-s3ns-sfeir]]
+Angle : reconnaître la valeur pragmatique de S3NS pour secteurs régulés, mais rappeler la distinction [[souverainete-numerique]] (cloud souverain ≠ cloud US rebrandé) — contraste avec [[2026-04-12-france-linux-opensource]] (DINUM sort de Windows). Dépendances résiduelles : technologique (GPU, Gemini), épistémique ([[delegation-risque-big-tech]]). Proposition constructive : SFEIR comme Intégrateur de Confiance des piles libres ([[mistral]], [[ollama]], [[coolify]]).
