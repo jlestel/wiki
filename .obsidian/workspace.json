@@ -178,6 +178,7 @@
   },
   "active": "957bee5da14e5b8a",
   "lastOpenFiles": [
+    "wiki/syntheses/bilan-batch-ingest-avril-2026.md",
     "wiki/concepts/securite-infrastructure.md",
     "wiki/concepts/serverless-zero-cost.md",
     "wiki/concepts/infrastructure-as-code.md",
@@ -203,7 +204,6 @@
     "wiki/sources/2026-04-15-liens-tech-avril-2026.md",
     "wiki/sources/2026-04-14-majorite-emmerde-llm.md",
     "wiki/sources/2026-04-12-france-linux-opensource.md",
-    "wiki/sources/2026-04-15-screenshot-claude-conversation.md",
     "skills/veille/sources.yml",
     "skills/veille/fetch_feeds.py",
     "skills/veille",

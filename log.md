@@ -80,3 +80,7 @@ Questions ouvertes :
 - Quelle gouvernance pour l'IA souveraine européenne (Mistral + Ollama + infra publique) ?
 - La sycophantie des LLM est-elle un bug d'alignement ou une feature produit (rétention) ?
 - Seuil critique : à partir de quel coût mensuel les agents Claude Code deviennent-ils non rentables vs salariés ?
+
+## [2026-04-16] save | Bilan batch ingest avril 2026
+Page créée: [[bilan-batch-ingest-avril-2026]]
+Synthèse du batch de 12 sources : 4 clusters thématiques (souveraineté/open source, unit economics IA, critique épistémique LLM, infra minimaliste), tensions productives identifiées, 4 questions ouvertes pour la suite.
