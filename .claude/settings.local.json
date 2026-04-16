@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cp Projet*Terafab*.md /tmp/terafab.md)",
+      "Read(//tmp/**)"
+    ]
+  }
+}

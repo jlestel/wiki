@@ -84,3 +84,36 @@ Questions ouvertes :
 ## [2026-04-16] save | Bilan batch ingest avril 2026
 Page créée: [[bilan-batch-ingest-avril-2026]]
 Synthèse du batch de 12 sources : 4 clusters thématiques (souveraineté/open source, unit economics IA, critique épistémique LLM, infra minimaliste), tensions productives identifiées, 4 questions ouvertes pour la suite.
+
+## [2026-04-16] ingest | Les 11 phrases de Steve Jobs
+Source: `raw/Les 11 phrases de Steve Jobs qui vont changer la façon dont vous travaillez..md` (publié 2015-08-31, source secondaire)
+Pages créées: [[2015-08-31-steve-jobs-11-phrases]], [[steve-jobs]], [[perseverance]], [[excellence-artisanale]], [[memento-mori]], [[design-fonctionnel]], [[vocation-professionnelle]]
+Pages mises à jour: [[apple]] (ajout héritage Jobs + tension avec stratégie IA actuelle)
+Contradictions: aucune frontale, mais tension productive ajoutée sur [[apple]] entre doctrine historique (qualité/innovation intégrales) et stratégie IA (distribution plutôt que création).
+Cross-links notables :
+- [[vocation-professionnelle]] ↔ [[biais-majorite-llm]] / [[sycophantie-llm]] — le #6 de Jobs (« bruit ambiant ») relit les LLM comme bruit algorithmique lissant vers la moyenne
+- [[excellence-artisanale]] ↔ [[couche-applicative-ia]] / [[self-hosting]] — opposition au vibe coding
+- [[perseverance]] ↔ [[brivael]] / [[entrepreneuriat-france]]
+- [[memento-mori]] ↔ [[nietzsche]] / [[taleb]] (parenté avec stoïcisme et lucidité sur le risque)
+Questions ouvertes :
+- Persévérance vs entêtement (escalation of commitment) — manque source critique
+- Quels produits IA contemporains illustrent le design fonctionnel au sens Jobs vs design cosmétique ?
+- Dans un monde où l'IA produit à coût marginal nul, l'excellence artisanale se déplace-t-elle de la production vers la revue/curation ?
+- Distinction vocation (trouver le travail aimé) vs artisanat (apprendre à aimer le travail bien fait)
+
+## [2026-04-16] ingest | Saying Goodbye to Agile (Lewis Campbell)
+Source: `raw/Saying Goodbye to Agile.md` (publié 2026-04-14, lewiscampbell.tech)
+Note : la page source `[[2026-04-16-saying-goodbye-to-agile]]` avait été créée dans une session antérieure interrompue ; cet ingest complète les pages entités/concepts, l'index et le log manquants.
+Pages créées: [[lewis-campbell]], [[winston-royce]], [[critique-agile]], [[spec-driven-development]]
+Pages mises à jour: [[index.md]]
+Contradictions: aucune frontale. Deux `> [!question]` posées sur [[spec-driven-development]] (tension avec [[automatisation-ia]] agentique et risque de sur-spécification).
+Cross-links notables :
+- [[spec-driven-development]] ↔ [[ia-comme-levier]] — la spec est le levier, la compétence amplifiée est de spécifier
+- [[spec-driven-development]] ↔ [[asymetrie-pensee-ia]] — la spec rééquilibre la production LLM qui dépasse la pensée
+- [[spec-driven-development]] ↔ [[excellence-artisanale]] — la spec est le dos de la commode du #7 de Jobs
+- [[spec-driven-development]] ↔ [[fondamentaux-cs]] — sans data structures/algos/systèmes, la spec reste bruit
+- [[critique-agile]] ↔ [[winston-royce]] — antériorité historique de 30 ans
+Questions ouvertes :
+- Quels éléments d'Agile gardent leur valeur indépendamment du Manifesto (Lean : rétrospectives, ownership, petits batchs) ?
+- Les agents autonomes (Claude Code Routines) qui auto-prompt sans spec humaine formelle — nouveau Waterfall déguisé ou spec-driven d'un autre ordre ?
+- Calibrage du bon niveau de détail d'une spec à l'ère LLM (Royce prévient déjà qu'une doc abondante mais fausse est pire qu'absente)
