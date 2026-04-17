@@ -11,14 +11,10 @@
             "id": "957bee5da14e5b8a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "raw/Les 11 phrases de Steve Jobs qui vont changer la façon dont vous travaillez..md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Les 11 phrases de Steve Jobs qui vont changer la façon dont vous travaillez."
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vue graphique"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "raw/Les 11 phrases de Steve Jobs qui vont changer la façon dont vous travaillez..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Les 11 phrases de Steve Jobs qui vont changer la façon dont vous travaillez."
+              "title": "Rétroliens"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "raw/Les 11 phrases de Steve Jobs qui vont changer la façon dont vous travaillez..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Les 11 phrases de Steve Jobs qui vont changer la façon dont vous travaillez."
+              "title": "Liens sortants"
             }
           },
           {
@@ -156,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "raw/Les 11 phrases de Steve Jobs qui vont changer la façon dont vous travaillez..md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Les 11 phrases de Steve Jobs qui vont changer la façon dont vous travaillez."
+              "title": "Plan"
             }
           }
         ]
@@ -185,6 +178,19 @@
   },
   "active": "957bee5da14e5b8a",
   "lastOpenFiles": [
+    "wiki/concepts/droit-consommateurs-tech.md",
+    "wiki/concepts/obsolescence-logicielle.md",
+    "wiki/entities/mischa-sigtermans.md",
+    "wiki/entities/elon-musk.md",
+    "wiki/entities/tesla.md",
+    "wiki/sources/2026-04-15-tesla-fsd-hw3-refunds.md",
+    "wiki/entities/drew-breunig.md",
+    "wiki/concepts/securite-proof-of-work.md",
+    "wiki/sources/2026-04-14-cybersecurity-proof-of-work.md",
+    "raw/Cybersecurity Looks Like Proof of Work Now.md",
+    "wiki/syntheses/post-80-20-experience-ia.md",
+    "raw/Thousands of Tesla Owners Demand $7,500 Refunds After FSD Launch Locks Them Out.md",
+    "raw/Les 11 phrases de Steve Jobs qui vont changer la façon dont vous travaillez..md",
     "wiki/concepts/spec-driven-development.md",
     "wiki/concepts/critique-agile.md",
     "wiki/entities/winston-royce.md",
@@ -197,20 +203,7 @@
     "wiki/entities/steve-jobs.md",
     "wiki/sources/2015-08-31-steve-jobs-11-phrases.md",
     "wiki/sources/2026-04-16-saying-goodbye-to-agile.md",
-    "raw/Les 11 phrases de Steve Jobs qui vont changer la façon dont vous travaillez..md",
     "wiki/sources/2025-05-18-apocalypse-zombie-thiel.md",
-    "raw/Code Is Cheap Now, And That Changes Everything.md",
-    "raw/Projet « Terafab »  Pourquoi Tesla s'apprête à fabriquer ses propres puces dès 2026.md",
-    "raw/Programming used to be free.md",
-    "raw/Saying Goodbye to Agile.md",
-    "raw/Peter Thiel, le virage complotiste (pas si nouveau) du magnat de la Silicon Valley.md",
-    "raw/Penser contre son époque, la philosophie de Peter Thiel.md",
-    "raw/La pensée Peter THIEL.md",
-    "raw/Apocalypse zombie  la leçon de ténèbres de Peter Thiel.md",
-    "raw/LA FRANCE LÂCHE MICROSOFT POUR LINUX ET L'OPENSOURCE ?  Anatomie d'une révolution numérique.md",
-    "wiki/concepts/antifragilite.md",
-    "wiki/entities/anthropic.md",
-    "wiki/syntheses/bilan-batch-ingest-avril-2026.md",
     "skills/veille/sources.yml",
     "skills/veille/fetch_feeds.py",
     "skills/veille",

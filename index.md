@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2026-04-16
+updated: 2026-04-17
 ---
 
 # Wiki Index
@@ -23,8 +23,10 @@ updated: 2026-04-16
 - [[2026-04-15-telegram-bot-go-lambda-zero]] — Bot Telegram en Go + AWS Lambda à coût zéro
 - [[2026-04-15-terraform-gcp-scaling]] — Retour d'expérience Terraform GCP à l'échelle
 - [[2026-04-16-claude-code-routines]] — Claude Code Routines : cron cloud d'agents Claude
+- [[2026-04-15-tesla-fsd-hw3-refunds]] — Tesla FSD approuvé en Europe mais HW3 exclu : action collective de 1 400+ propriétaires
 - [[2026-04-16-saying-goodbye-to-agile]] — Lewis Campbell enterre Agile : retour au spec-driven via Royce 1970 et les LLM
 - [[2026-04-16-edgee-token-compression]] — Edgee : compression tokens LLM pour réduire les coûts
+- [[2026-04-14-cybersecurity-proof-of-work]] — La cybersécurité comme proof-of-work : course aux tokens, Mythos (Anthropic), open source renforcé
 
 ## Entities
 
@@ -41,6 +43,7 @@ updated: 2026-04-16
 - [[coolify]] — Plateforme self-hosted open source (alternative Vercel)
 - [[dinum]] — Direction interministérielle du numérique (France)
 - [[disney]] — Conglomérat divertissement, ex-partenaire Sora
+- [[drew-breunig]] — Analyste tech, cybersécurité comme proof-of-work
 - [[edgee]] — Startup compression tokens LLM
 - [[gemini]] — Famille de modèles IA de Google (app macOS)
 - [[girard]] — Anthropologue, théoricien du désir mimétique
@@ -59,6 +62,9 @@ updated: 2026-04-16
 - [[steve-jobs]] — Cofondateur Apple, philosophie du travail (artisanat, design fonctionnel)
 - [[taleb]] — Essayiste, antifragilité
 - [[winston-royce]] — Ingénieur logiciel (1970), souvent mal cité comme père de Waterfall alors qu'il le disqualifiait
+- [[elon-musk]] — CEO Tesla, admissions publiques sur la dette FSD/HW3
+- [[mischa-sigtermans]] — Propriétaire Tesla NL, initiateur de l'action collective hw3claim.nl
+- [[tesla]] — Constructeur automobile, controverse FSD/HW3 en Europe
 - [[y-combinator]] — Accélérateur de startups
 
 ## Concepts
@@ -74,6 +80,7 @@ updated: 2026-04-16
 - [[delegation-risque-big-tech]] — Big tech délèguent le risque R&D aux labs et au VC
 - [[democratisation-ia]] — L'IA réduit les asymétries de capacité entre individus
 - [[design-fonctionnel]] — Design = comment un objet fonctionne, pas à quoi il ressemble (Jobs)
+- [[droit-consommateurs-tech]] — Protection juridique consommateurs face aux promesses logicielles non tenues
 - [[desir-mimetique]] — On désire ce que les autres désirent (Girard)
 - [[entrepreneuriat-france]] — Diagnostic de l'environnement entrepreneurial français
 - [[excellence-artisanale]] — Qualité intégrale, même sur ce qui ne se voit pas (Jobs : métaphore du charpentier)
@@ -87,6 +94,7 @@ updated: 2026-04-16
 - [[perseverance]] — La moitié de ce qui sépare entrepreneurs qui réussissent/échouent (Jobs)
 - [[rentabilite-ia]] — Tension entre adoption massive et absence de profitabilité
 - [[securite-infrastructure]] — Veille CVE, CVSS, KEV, CERT-FR
+- [[securite-proof-of-work]] — Sécurité = course aux tokens, proof-of-work appliqué à la cybersécurité
 - [[self-hosting]] — Héberger soi-même vs SaaS
 - [[serverless-zero-cost]] — Pattern Lambda free tier + Function URL à coût zéro
 - [[souverainete-numerique]] — Contrôle des données et infrastructures (État + individu)

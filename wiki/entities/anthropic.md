@@ -3,7 +3,7 @@ type: entity
 created: 2026-04-16
 updated: 2026-04-16
 tags: [entreprise, ia, lab]
-sources: [2026-04-15-big-tech-delegation-risque-ia, 2026-04-14-majorite-emmerde-llm, 2026-04-16-claude-code-routines, 2026-04-16-edgee-token-compression]
+sources: [2026-04-15-big-tech-delegation-risque-ia, 2026-04-14-majorite-emmerde-llm, 2026-04-16-claude-code-routines, 2026-04-16-edgee-token-compression, 2026-04-14-cybersecurity-proof-of-work]
 ---
 
 # Anthropic
@@ -24,3 +24,4 @@ Lab IA, créateur de Claude.
 - [[claude-code]] : CLI agent pour devs, + Claude Code Routines (cron cloud) — [[2026-04-16-claude-code-routines]]
 - Cité dans les critiques de [[sycophantie-llm]] (étude interne sur biais de majorité) — [[2026-04-14-majorite-emmerde-llm]]
 - Coûts d'inférence élevés identifiés comme risque unit economics — voir [[optimisation-couts-ia]] et startups comme [[edgee]] — [[2026-04-16-edgee-token-compression]]
+- **Mythos** : LLM de cybersécurité non publié, capable de trouver des 0-days de manière autonome. Validé par l'AISI. Accès restreint aux éditeurs d'infra critique — [[2026-04-14-cybersecurity-proof-of-work]]

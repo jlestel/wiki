@@ -118,6 +118,14 @@ Questions ouvertes :
 - Les agents autonomes (Claude Code Routines) qui auto-prompt sans spec humaine formelle — nouveau Waterfall déguisé ou spec-driven d'un autre ordre ?
 - Calibrage du bon niveau de détail d'une spec à l'ère LLM (Royce prévient déjà qu'une doc abondante mais fausse est pire qu'absente)
 
+## [2026-04-17] ingest | Cybersecurity Looks Like Proof of Work Now
+Source: `raw/Cybersecurity Looks Like Proof of Work Now.md`
+Pages créées: [[2026-04-14-cybersecurity-proof-of-work]], [[securite-proof-of-work]], [[drew-breunig]]
+Pages mises à jour: [[anthropic]] (ajout Mythos), [[securite-infrastructure]] (ajout section LLM)
+Contradictions: aucune frontale. Tension productive : la sécurité comme coût réintroduit une asymétrie qui contredit [[democratisation-ia]] — les petits projets sont structurellement désavantagés.
+Cross-links: [[securite-proof-of-work]] ↔ [[optimisation-couts-ia]] ↔ [[rentabilite-ia]] (tokens de sécurité comme coût caché), [[open-source-etat]] renforcé (loi de Linus étendue aux tokens)
+Questions ouvertes: les startups/projets OSS communautaires peuvent-ils rester compétitifs en sécurité face aux budgets big tech ?
+
 ## [2026-04-17] save | Post LinkedIn 80/20 expérience vs IA
 Page créée: [[post-80-20-experience-ia]]
 Synthèse croisant 3 sources et 5 concepts wiki. Thèse : l'IA compresse 80 % de 25 ans d'XP technique, mais les 20 % de jugement/intuition restent incompressibles. La vraie rupture : l'accessibilité, pas le raccourci. Plaidoyer open source.
