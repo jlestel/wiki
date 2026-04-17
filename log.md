@@ -117,3 +117,7 @@ Questions ouvertes :
 - Quels éléments d'Agile gardent leur valeur indépendamment du Manifesto (Lean : rétrospectives, ownership, petits batchs) ?
 - Les agents autonomes (Claude Code Routines) qui auto-prompt sans spec humaine formelle — nouveau Waterfall déguisé ou spec-driven d'un autre ordre ?
 - Calibrage du bon niveau de détail d'une spec à l'ère LLM (Royce prévient déjà qu'une doc abondante mais fausse est pire qu'absente)
+
+## [2026-04-17] save | Post LinkedIn 80/20 expérience vs IA
+Page créée: [[post-80-20-experience-ia]]
+Synthèse croisant 3 sources et 5 concepts wiki. Thèse : l'IA compresse 80 % de 25 ans d'XP technique, mais les 20 % de jugement/intuition restent incompressibles. La vraie rupture : l'accessibilité, pas le raccourci. Plaidoyer open source.

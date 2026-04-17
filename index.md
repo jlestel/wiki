@@ -102,3 +102,4 @@ updated: 2026-04-16
 - [[bilan-ingest-apprendre-a-coder]] — Nuance émergente : l'IA démocratise pour ceux qui maîtrisent les bases
 - [[reponse-post-280-dollars-anthropic]] — Post LinkedIn : critique des unit economics IA, plaidoyer open source vs dépendance aux labs
 - [[bilan-batch-ingest-avril-2026]] — Bilan du batch de 12 sources : 4 clusters thématiques émergents (souveraineté, unit economics, critique LLM, infra minimaliste)
+- [[post-80-20-experience-ia]] — Post LinkedIn : 80 % des compétences accessibles via IA, les 20 % d'expérience ne se compressent pas
