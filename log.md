@@ -129,3 +129,7 @@ Questions ouvertes: les startups/projets OSS communautaires peuvent-ils rester c
 ## [2026-04-17] save | Post LinkedIn 80/20 expérience vs IA
 Page créée: [[post-80-20-experience-ia]]
 Synthèse croisant 3 sources et 5 concepts wiki. Thèse : l'IA compresse 80 % de 25 ans d'XP technique, mais les 20 % de jugement/intuition restent incompressibles. La vraie rupture : l'accessibilité, pas le raccourci. Plaidoyer open source.
+
+## [2026-04-17] save | Post LinkedIn Qwen3.6-35b-A3B
+Page créée: [[post-qwen-alibaba-open-source]]
+Post réactif à la sortie Alibaba Qwen3.6-35b-A3B (MoE 35B/3B actifs). Thèse : la commoditisation open source accélère, la Chine rebat les cartes par contrainte (export controls), le vrai danger est la fermeture par OpenAI/Anthropic, pas l'ouverture. Références Jobs + Musk (xAI). Plaidoyer open source, tokens locaux, souveraineté individuelle.
