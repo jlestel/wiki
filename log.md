@@ -136,3 +136,7 @@ Pages créées: [[2026-04-15-tesla-fsd-hw3-refunds]], [[tesla]], [[elon-musk]], 
 Contradictions: aucune frontale. Nouveau cluster thématique (consommateurs/droit tech).
 Cross-links: [[obsolescence-logicielle]] ↔ [[commoditisation-modeles-ia]] (paradoxe : modèle commoditisé mais matériel spécifique requis), [[droit-consommateurs-tech]] ↔ [[souverainete-numerique]] (protection consommateur comme levier de souveraineté)
 Questions ouvertes: la directive EU 2019/770 couvre-t-elle le cas « logiciel payé, jamais livré car matériel abandonné » ? Ce pattern s'applique-t-il aux assistants IA (features premium désactivées sur appareils anciens) ?
+
+## [2026-04-19] save | Post LinkedIn certificats TLS 47 jours
+Page créée: [[post-certificats-tls-47-jours]]
+Synthèse croisant wiki (securite-infrastructure, securite-proof-of-work, self-hosting, open-source-etat) et recherche web (CA/Browser Forum ballot SC-081, ACME, Let's Encrypt, Caddy, Traefik). Thèse : la réduction à 47 jours rend l'automatisation obligatoire, les outils open source sont matures depuis une décennie.

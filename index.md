@@ -113,3 +113,4 @@ updated: 2026-04-17
 - [[bilan-batch-ingest-avril-2026]] — Bilan du batch de 12 sources : 4 clusters thématiques émergents (souveraineté, unit economics, critique LLM, infra minimaliste)
 - [[post-80-20-experience-ia]] — Post LinkedIn : 80 % des compétences accessibles via IA, les 20 % d'expérience ne se compressent pas
 - [[post-qwen-alibaba-open-source]] — Post LinkedIn : Qwen3.6-35b-A3B d'Alibaba rebat les cartes, plaidoyer open source contre Mythos fermé
+- [[post-certificats-tls-47-jours]] — Post LinkedIn : certificats TLS à 47 jours, l'automatisation ACME n'est plus optionnelle
