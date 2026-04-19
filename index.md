@@ -89,6 +89,7 @@ updated: 2026-04-17
 - [[infrastructure-as-code]] — IaC, Terraform, bonnes pratiques à l'échelle
 - [[levee-de-fonds-ia]] — Montants records levés par les entreprises IA
 - [[memento-mori]] — Conscience de la mort comme hygiène de décision (Jobs : exercice du miroir)
+- [[obsolescence-logicielle]] — Fonctionnalité payée rendue inaccessible par changement matériel/politique
 - [[open-source-etat]] — Open source comme posture stratégique (État, infra, IA)
 - [[optimisation-couts-ia]] — Réduction coûts LLM : compression tokens, caching, routing
 - [[perseverance]] — La moitié de ce qui sépare entrepreneurs qui réussissent/échouent (Jobs)

@@ -129,3 +129,10 @@ Questions ouvertes: les startups/projets OSS communautaires peuvent-ils rester c
 ## [2026-04-17] save | Post LinkedIn 80/20 expérience vs IA
 Page créée: [[post-80-20-experience-ia]]
 Synthèse croisant 3 sources et 5 concepts wiki. Thèse : l'IA compresse 80 % de 25 ans d'XP technique, mais les 20 % de jugement/intuition restent incompressibles. La vraie rupture : l'accessibilité, pas le raccourci. Plaidoyer open source.
+
+## [2026-04-17] ingest | Tesla FSD Europe — propriétaires HW3 exclus
+Source: `raw/Thousands of Tesla Owners Demand $7,500 Refunds After FSD Launch Locks Them Out.md`
+Pages créées: [[2026-04-15-tesla-fsd-hw3-refunds]], [[tesla]], [[elon-musk]], [[mischa-sigtermans]], [[obsolescence-logicielle]], [[droit-consommateurs-tech]]
+Contradictions: aucune frontale. Nouveau cluster thématique (consommateurs/droit tech).
+Cross-links: [[obsolescence-logicielle]] ↔ [[commoditisation-modeles-ia]] (paradoxe : modèle commoditisé mais matériel spécifique requis), [[droit-consommateurs-tech]] ↔ [[souverainete-numerique]] (protection consommateur comme levier de souveraineté)
+Questions ouvertes: la directive EU 2019/770 couvre-t-elle le cas « logiciel payé, jamais livré car matériel abandonné » ? Ce pattern s'applique-t-il aux assistants IA (features premium désactivées sur appareils anciens) ?
